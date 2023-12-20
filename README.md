@@ -1,7 +1,7 @@
 # Matrix-Project
 
 After weeks of working, it's finally here. 
-And it's dissapointing.
+And it's dissappointing. 🥶
 
 <p><b>LCD functionalities</b></p>
  1. Intro Message - When powered, a greeting message is shown on the LCD
@@ -27,7 +27,7 @@ LCD display 📺
 When the menu appears the first options that can be seen is a) Start game, that if chosen, start the game on the matrix. By scrolling you can see the other options, b)Settings and c)About. To choose an option of the MAIN MENU(read that again), the user needs to press the joystick once. <br>
 ☁️ Keep reading 🪗 <br>
 If the first option is chosen, the game starts and the LCD display the current lives of the player and the timer of the game. For the second option, the settings, new options will be displayed. Again, the user can scroll through them using the up or down motion on the joystick. <br>
-To chose an option the user has to swipe right with the joystick. The third option of this submenu allows the user to go back to the MAIN MENU. If user wants to set the intensity of the LCD, (and for the next assigment, maybe the intensity of the matrix), they swipe right on that option of the settings submenu. To set the intensity, they have to swipe the joystick left or right this time, and to swipe down to save the value to EEPROM and return to submenu (it was supposed to be up, down and right to leave as well, but wasn't working, sooo yeah). <br>
+To chose an option the user has to swipe right with the joystick. The third option of this submenu allows the user to go back to the MAIN MENU. If user wants to set the intensity of the LCD or for the matrix, they swipe right on that option of the settings submenu. (Last time I checked it didn't work) To set the intensity, they have to swipe the joystick left or right this time, and to swipe down to save the value to EEPROM and return to submenu (it was supposed to be up, down and right to leave as well, but wasn't working, sooo yeah). <br>
 ☁️ Keep going 🪗 <br>
 
 The ABOUT option of the MAIN MENU is the nicest, it displays the GITHUB username of me. To return to MAIN MENU, swipe right. So easy! <br> <br>
@@ -43,5 +43,7 @@ I know rules are long and might be boring to read, but give it a try. If you don
 </details>
 
 <p><b>Setup of the assignment 📷 </b></p>
-<img src="https://github.com/nicoletaiova25/IntroductionToRobotics/assets/148574222/f20ebd7f-653d-462d-adec-c74624af9f11).jpg" width="500" height="600">
+<img src="https://github.com/nicoletaiova25/IntroductionToRobotics/assets/148574222/e69ae3b7-f9a1-49a5-a39c-190bbf51a028).jpg" width="500" height="600">
 <br>
+
+### 💻 The Code: [Can be found here](https://github.com/nicoletaiova25/Matrix-Project/blob/main/Matrix%20Code/matrixProject.ino)
