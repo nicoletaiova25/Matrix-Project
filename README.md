@@ -4,7 +4,7 @@ After weeks of working, it's finally here.
 And it's dissappointing. 🥶
 
 <p><b>LCD functionalities</b></p>
- 1. Intro Message - When powered, a greeting message is shown on the LCD
+ 1. Intro Message - When powered, a greeting message is shown on the LCD <br>
  2. Menu - user can scroll using joystick through the options displayed and choose what they want<br>
     a. Start Game, the game is displayed on the matrix<br>
     b. Settings, with 4 options itself, set intensity to LCD, set intensity to matrix, return to menu, enter name<br>
