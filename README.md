@@ -1,6 +1,7 @@
 # Matrix-Project
 
 After weeks of working, it's finally here. 
+And it's dissapointing.
 
 <p><b>LCD functionalities</b></p>
  1. Intro Message - When powered, a greeting message is shown on the LCD
