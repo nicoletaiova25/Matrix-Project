@@ -40,3 +40,7 @@ After the game is terminated, the MAIN MENU is displayed. <br>
 
 I know rules are long and might be boring to read, but give it a try. If you don't, don't blame me when you won't know to handle the menu on the LCD! 🦝
 </details>
+
+<p><b>Setup of the assignment 📷 </b></p>
+<img src="https://github.com/nicoletaiova25/IntroductionToRobotics/assets/148574222/f20ebd7f-653d-462d-adec-c74624af9f11).jpg" width="500" height="600">
+<br>
