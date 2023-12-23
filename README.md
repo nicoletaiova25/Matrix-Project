@@ -43,8 +43,9 @@ I know rules are long and might be boring to read, but give it a try. If you don
 </details>
 
 <p><b>Setup of the assignment 📷 </b></p>
-<img src="https://github.com/nicoletaiova25/Matrix-Project/assets/148574222/4f5fd5fd-da09-4573-acaa-9c00eb25a76d.jpg" width="500" height="600">
+<img src="https://github.com/nicoletaiova25/Matrix-Project/assets/148574222/17b83977-5ca8-4fb5-8846-4e94d45d083c.jpg" width="500" height="600">
 <br>
+
 
 ### 💻 The Code: [Can be found here](https://github.com/nicoletaiova25/Matrix-Project/blob/main/Matrix%20Code/matrixProject.ino)
 ### 🎞️ A video showcasting functionality of assignment: 🌠 [The video](https://youtu.be/rWYjC3Rg-bc?feature=shared) 🌠
